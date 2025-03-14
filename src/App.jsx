@@ -5,7 +5,7 @@ import Projects from "./Components/Projects";
 import ExtentedProject from "./Components/ExtentedProject";
 import Skills from "./Components/Skills";
 import Certificates from "./Components/Certificates";
-import Leadership from "./Components/Leadership";
+// import Leadership from "./Components/Leadership";
 import Career from "./Components/Career";
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <ExtentedProject />
       <Skills />
       <Certificates />
-      <Leadership />
+      {/* <Leadership /> */}
       <Career />
     </>
   );

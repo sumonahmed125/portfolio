@@ -169,10 +169,8 @@ function Projects() {
               Chatting App
             </h3>
             <p className="mt-2 text-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              illo rem et aliquid. Aperiam assumenda voluptatem labore
-              exercitationem? Impedit accusantium rem quos aspernatur quibusdam
-              quas deserunt dolore quasi facilis distinctio.
+              chat app is a web application that helps you to chat with your
+              friends. you can add, delete, and update your chat information.
             </p>
             <button
               className="px-5 py-3 bg-stone-400  text-white rounded-md mt-5
@@ -191,10 +189,9 @@ function Projects() {
               Travel Agency
             </h3>
             <p className="mt-2 text-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              illo rem et aliquid. Aperiam assumenda voluptatem labore
-              exercitationem? Impedit accusantium rem quos aspernatur quibusdam
-              quas deserunt dolore quasi facilis distinctio.
+              travel agency is a web application that helps you to manage your
+              travel agency. you can add, delete, and update your travel agency
+              information.
             </p>
             <button
               className="px-5 py-3 bg-stone-400  text-white rounded-md mt-5

@@ -22,15 +22,17 @@ function Certificates() {
             <div className="sm:w-[60%]">
               <div>
                 <h3 className="text-blue-950 font-bold text-2xl poppins-regular ">
-                  Lorem ipsum dolor :
+                  Data Analyst :Become a Data Analyst
                 </h3>
                 <p className="text-blue-500 font-semibold">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.{" "}
+                  data analysis is the process of cleaning, transforming, and
+                  modeling data to discover useful information for business
+                  decision-making.
                 </p>
               </div>
               <div className="mt-6">
                 <h3 className="text-blue-950 font-bold text-2xl poppins-regular ">
-                  INTERNSHIP CERTIFICATE :
+                  INTERNSHIP CERTIFICATE : Software Developer
                 </h3>
                 <p className="text-blue-500 font-semibold">
                   successfully completed an internship as a software Developer
@@ -39,16 +41,15 @@ function Certificates() {
               </div>
               <div className="mt-6">
                 <h3 className="text-blue-950 font-bold text-2xl poppins-regular ">
-                  Data Analys :
+                  Volunteer : Volunteer Certificate
                 </h3>
                 <p className="text-blue-500 font-semibold">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
-                  ipsum dolor sit amet consectetur.
+                  volunteer certificate for the contribution to the community.
                 </p>
               </div>
             </div>
           </div>
-          <div className=" flex flex-col sm:flex-row justify-between mt-20">
+          {/* <div className=" flex flex-col sm:flex-row justify-between mt-20">
             <h3 className="text-3xl text-blue-950 poppins-regular sm:w-[30%]  font-bold">
               {" "}
               Academic Honors
@@ -74,7 +75,7 @@ function Certificates() {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
