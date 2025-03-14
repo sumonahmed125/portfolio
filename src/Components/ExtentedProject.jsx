@@ -92,20 +92,50 @@ function ExtentedProject() {
       <div className="mt-20  sm:w-[70%] mx-auto ">
         <h3 className="text-2xl text-blue-950 font-bold open-sans-font">
           {" "}
-          Research Assistantship at Lorem ipsum dolor{" "}
+          Research Assistantship at Metropolitan University of Bangladesh{" "}
         </h3>
         <div className="flex sm:flex-row flex-col gap-20 items-center mt-3">
           <div className="sm:w-[60%]">
             <p className="text-base text-gray-500 font-semibold">
-              Lorem ipsum dolor sit, numquam quasi velit dolore quod vel. Rem,
-              eveniet molestiae. Earum autem quidem vero temporibus reiciendis
-              nostrum, dolorum nam qui quisquam est, maiores nisi exercitationem
-              necessitatibus esse accusantium fugiat facilis debitis
-              <br /> <br /> cum mollitia. maiores nisi exercitationem
-              necessitatibus esse accusantium fugiat Iste, eos. Illo excepturi
-              quasi culpa nostrum unde?
+              As a Research Assistant, I worked on sentiment analysis of
+              Bangladesh Cricket discussions on social media using Natural
+              Language Processing (NLP) & Machine Learning (ML). The research
+              aimed to build CricBakko, the first Bangla cricket-focused
+              sentiment analysis dataset, by collecting and analyzing public
+              opinions from Facebook & YouTube. The dataset was used to develop
+              a sentiment analysis model that could predict the sentiment of a
+              given text. The research findings were published in the
+              International Journal of Computer Science and Information Security
+              (IJCSIS) and presented at the 2021 International Conference on
+              Computer, Communication, and Signal Processing (ICCCSP).
             </p>
-
+            <p>
+              <h4 className="text-gray-700 font-semibold">
+                {" "}
+                Key Contributions:
+              </h4>
+              <h5 className="text-gray-500 font-semibold">
+                {" "}
+                ✅ Data Collection & Preprocessing:{" "}
+              </h5>
+              <p className="text-gray-500 font-semibold">
+                • Collected 54,000+ social media comments using Google Scripts &
+                Apify Web Scraper.
+              </p>
+              <p className="text-gray-500 font-semibold">
+                {" "}
+                • Filtered and cleaned Bangla & Banglish text, removing
+                irrelevant data.
+              </p>
+              <h5 className="text-gray-500 font-semibold">
+                ✅ Dataset Annotation & Text Processing:
+              </h5>
+              <p className="text-gray-500 font-semibold">
+                {" "}
+                • Categorized data into Positive, Negative, Neutral, and
+                Off-Topic sentiments.
+              </p>
+            </p>
             <h4 className="font-bold text-blue-950 mt-5">
               {" "}
               Contributions and Learning:
@@ -130,12 +160,12 @@ function ExtentedProject() {
             </div>
             <div className="mt-4">
               <h3 className="text-blue-950 font-bold"> Location :</h3>
-              <p className="text-gray-600">Ashulia, Savar, Dhaka</p>
+              <p className="text-gray-600">Sylhet,Bangladesh</p>
             </div>
             <div className="mt-4">
               <h3 className="text-blue-950 font-bold">Duration :</h3>
               <p className="text-gray-600">
-                Starting February 6, 2023, with potential annual renewals based
+                Starting February 6, 2024, with potential annual renewals based
                 on performance and project needs.
               </p>
             </div>
