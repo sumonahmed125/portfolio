@@ -82,6 +82,34 @@ const projects = [
     image: "./images/petcare.jpg",
     link: "https://github.com/sumonahmed125/Pets-Care",
   },
+  {
+    id: 4,
+    title: "e-commerce vegitable shop",
+    bgImage: "images/bg-2.png", // change the image path
+    // bgImage: "images/bg-3.png",
+    tools: [
+      {
+        id: 1,
+        s: "HTML",
+      },
+      {
+        id: 2,
+        s: "CSS",
+      },
+      {
+        id: 3,
+        s: "Tailwind CSS",
+      },
+      {
+        id: 4,
+        s: "JavaScript",
+      },
+    ],
+    description:
+      "e commerce vegitable shop is a web application that helps you to manage your vegitable shop. you can add, delete, and update your vegitable information.",
+    image: "./images/vegist.jpg",
+    link: "https://github.com/sumonahmed125/e-vegist",
+  },
 ];
 
 function Projects() {
@@ -125,7 +153,7 @@ function Projects() {
             <img
               src={p.image}
               alt=""
-              className="sm:w-[300px]  mt-10 sm:mt-0 order-1 sm:order-2"
+              className="sm:w-[500px]  mt-10 sm:mt-0 order-1 sm:order-2"
             />
           </div>
         ))}
