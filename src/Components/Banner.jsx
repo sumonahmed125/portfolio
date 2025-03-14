@@ -9,31 +9,36 @@ function Banner() {
         <div className="sm:w-[60%]">
           <h3 className="md:text-3xl text-xl font-semibold">Hello, I’m</h3>
           <h1 className="md:text-5xl text-3xl font-bold sm:mt-2 text-gray-800">
-            Masum Ahmed
+            Suman Ahmed Masum
           </h1>
           <h2 className="md:text-4xl text-2xl font-semibold open-sans-font mt-1 text-gray-700">
             I am a Web Developer
           </h2>
           <p className="mt-10 text-base text-gray-700 hidden md:block">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            nemo obcaecati architecto eius alias. Est asperiores laudantium
-            laborum adipisci doloribus illo voluptatibus excepturi quia modi
-            facilis incidunt nam, debitis ipsam minus consequatur? Cum, aliquam.
-            Cumque corrupti ullam aperiam reiciendis iure, totam rerum dolorem
-            maiores deleniti voluptates sapiente placeat voluptatem consequuntur
-            vel tempora, magni minima modi deleniti assumenda reprehenderit sit
-            adipisci! Amet sapiente culpa cumque ipsa?
+            A graphic designer, video editor, and UI/UX enthusiast with an
+            educational background in Computer Science and Engineering. My
+            passion for the digital world has led me to creative design, video
+            editing, and web development. I am proficient in Adobe Photoshop,
+            Premiere Pro, Blender, and Figma, which allow me to create beautiful
+            designs and engaging multimedia content. I also have experience in
+            front-end web development using Tailwind CSS, React, JavaScript,
+            Python, and HTML/CSS, which helps me bridge the gap between design
+            and functionality. I love user-centric design, interactive
+            experiences, and creating innovative digital solutions. Whether it’s
+            UI/UX design, video editing, or web development—I’m always
+            interested in creating high-quality and meaningful
+            digital experiences.
           </p>
           <div className="mt-8 gap-6 hidden md:flex ">
             <a
-              href="#"
+              href="https://www.linkedin.com/in/sumon-ahmed-masum-677993215/"
               className="px-5 py-3 bg-gray-800  text-white rounded-md 
                 hover:bg-transparent hover:border hover:border-gray-700 hover:text-gray-800"
             >
               LinkedIn
             </a>
             <a
-              href="#"
+              href="https://github.com/sumonahmed125"
               className="px-5 py-3 text-gray-800 bg-transparent border border-gray-800 rounded-md
                 hover:bg-gray-800  hover:text-white"
             >
@@ -41,8 +46,9 @@ function Banner() {
             </a>
           </div>
           <p className="md:hidden block text-sm mt-1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident,
-            eius!
+            A Web Developer, graphic designer, video editor, and UI/UX
+            enthusiast with an educational background in Computer Science and
+            Engineering.
           </p>
           <div className="flex md:hidden gap-2 mt-4">
             <div
