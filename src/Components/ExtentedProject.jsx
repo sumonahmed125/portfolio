@@ -92,7 +92,7 @@ function ExtentedProject() {
       <div className="mt-20  sm:w-[70%] mx-auto ">
         <h3 className="text-2xl text-blue-950 font-bold open-sans-font">
           {" "}
-          Research Assistantship at Metropolitan University of Bangladesh{" "}
+          Research Assistant at Metropolitan University of Bangladesh{" "}
         </h3>
         <div className="flex sm:flex-row flex-col gap-20 items-center mt-3">
           <div className="sm:w-[60%]">
@@ -136,7 +136,7 @@ function ExtentedProject() {
                 Off-Topic sentiments.
               </p>
             </p>
-            <h4 className="font-bold text-blue-950 mt-5">
+            {/* <h4 className="font-bold text-blue-950 mt-5">
               {" "}
               Contributions and Learning:
             </h4>
@@ -151,7 +151,7 @@ function ExtentedProject() {
                 {" "}
                 Research Evaluation
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="bg-stone-100 rounded-2xl p-10 -mt-16">
             <div>
@@ -165,13 +165,13 @@ function ExtentedProject() {
             <div className="mt-4">
               <h3 className="text-blue-950 font-bold">Duration :</h3>
               <p className="text-gray-600">
-                Starting February 6, 2024, with potential annual renewals based
+                Starting november 6, 2024, with potential annual renewals based
                 on performance and project needs.
               </p>
             </div>
             <div className="mt-4">
               <h3 className="text-blue-950 font-bold"> Weekly Hours :</h3>
-              <p className="text-gray-600">20 hours per week</p>
+              <p className="text-gray-600">16 hours per week</p>
             </div>
           </div>
         </div>

@@ -12,15 +12,22 @@ function Career() {
             <SiComma /> <SiComma />
           </div>
           <p className="sm:text-lg text-base text-gray-500 font-semibold">
-            My ultimate goal is to excel in the field of digital media by
-            leveraging cutting- edge technology to create innovative and
-            user-centric digital solutions. The Master’s program in Digital
-            Media at the University of Bremen perfectly aligns with these
-            aspirations, offering a blend of theoretical and practical knowledge
-            that will empower me to achieve my career objectives. I am eager to
-            engage with the interdisciplinary curriculum and collaborative
-            research opportunities to further my expertise and contribute to
-            advancements in the field.
+            My goal is to create innovative solutions using the intersection of
+            Digital Media & Artificial Intelligence (AI), which will improve
+            user experience and accelerate technological progress. In
+            particular, I have research experience in Sentiment Analysis, User
+            Interaction Design, and AI-driven Content Personalization, which
+            makes me an ideal candidate for the Digital Media Master's Program
+            in Bremen.The Digital Media Master's program at the University of
+            Bremen will give me the opportunity to acquire advanced technical
+            skills as well as actively participate in research. In particular, I
+            am attracted to research related to Interactive Media, Digital Media
+            Technologies, and AI-powered UX Design. I am interested in
+            conducting research under Prof. Dr. Rainer Malaka, who specializes
+            in AI-driven digital media optimization.The interdisciplinary
+            curriculum and research opportunities of this program will prepare
+            me to shape the future of digital media technology, and I look
+            forward to applying this knowledge to industry and research.
           </p>
         </div>
       </div>
