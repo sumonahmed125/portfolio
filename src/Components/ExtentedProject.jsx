@@ -7,7 +7,7 @@ const ExtendedProjects = [
     bgColor: "#d1c2f252",
     bgImg: "#c0b5eec7",
     title: "Calculator App",
-    link: "https://github.com/sumonahmed125/simple-calculator",
+    link: "https://sumonahmed125.github.io/simple-calculator/",
     image: "./images/project1.png",
   },
   {
@@ -15,7 +15,7 @@ const ExtendedProjects = [
     bgColor: "#d1c2f252",
     bgImg: "#e4ccbc",
     title: "Wether App",
-    link: "https://github.com/sumonahmed125/wether/tree/main",
+    link: "https://sumonahmed125.github.io/wether/",
     image: "./images/project2.png",
   },
   {
@@ -23,7 +23,7 @@ const ExtendedProjects = [
     bgColor: "#b4ccf570",
     bgImg: "#75bae04d",
     title: "tic tac toe",
-    link: "https://github.com/sumonahmed125/tic-tac-toe",
+    link: "https://sumonahmed125.github.io/tic-tac-toe/",
     image: "./images/project3.png",
   },
   {
@@ -31,7 +31,7 @@ const ExtendedProjects = [
     bgColor: "#f2c2ef7a",
     bgImg: "#e8a5e387",
     title: "image search engine",
-    link: "https://github.com/sumonahmed125/image-search-",
+    link: "https://sumonahmed125.github.io/image-search-/",
     image: "./images/project4.png",
   },
 ];
