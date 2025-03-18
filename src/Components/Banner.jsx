@@ -46,9 +46,19 @@ function Banner() {
             </a>
           </div>
           <p className="md:hidden block text-sm mt-1">
-            A Web Developer, graphic designer, video editor, and UI/UX
-            enthusiast with an educational background in Computer Science and
-            Engineering.
+            A graphic designer, video editor, and UI/UX enthusiast with an
+            educational background in Computer Science and Engineering. My
+            passion for the digital world has led me to creative design, video
+            editing, and web development. I am proficient in Adobe Photoshop,
+            Premiere Pro, Blender, and Figma, which allow me to create beautiful
+            designs and engaging multimedia content. I also have experience in
+            front-end web development using Tailwind CSS, React, JavaScript,
+            Python, and HTML/CSS, which helps me bridge the gap between design
+            and functionality. I love user-centric design, interactive
+            experiences, and creating innovative digital solutions. Whether it’s
+            UI/UX design, video editing, or web development—I’m always
+            interested in creating high-quality and meaningful digital
+            experiences.
           </p>
           <div className="flex md:hidden gap-2 mt-4">
             <div

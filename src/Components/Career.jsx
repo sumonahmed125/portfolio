@@ -41,22 +41,38 @@ function Career() {
             <SiComma /> <SiComma />
           </div>
           <p className="sm:text-lg text-base text-gray-500 font-semibold">
-            I am deeply committed to maintaining a high standard of academic and
-            professional excellence. Throughout my academic and professional
-            journey, I have consistently demonstrated a strong work ethic, a
-            passion for learning, and a dedication to achieving outstanding
-            results. I am confident that my drive for excellence will allow me
-            to make meaningful contributions to the University of Bremen’s
-            esteemed program and to the broader digital media landscape.
+            I am always committed to maintaining high academic and research
+            excellence. My goal is to create practical and usable solutions by
+            researching the intersection of Digital Media & AI. I have
+            maintained an innovative approach and focus at every step of
+            research, creative thinking, and acquiring technical skills. In my
+            honors thesis, I researched Sentiment Analysis on Bangladesh Cricket
+            through social media and created a new Bengali NLP dataset called
+            CricBakko. Here, I analyzed sentiment with 70.37% accuracy by
+            applying Logistic Regression, SVM, and Naïve Bayes models. This
+            research has helped me to understand AI-driven digital media
+            optimization and Interactive Media Technologies in a deeper way. I
+            am interested in researching under Prof. Dr. Rainer Malaka, who is
+            an expert in Human-Computer Interaction & AI-driven Digital Media
+            Optimization. I believe that the Digital Media program at the
+            University of Bremen will make me more skilled in research and
+            technical excellence. By studying here, I will be able to explore
+            new research horizons in Sentiment Analysis, AI-powered UX Design,
+            and Digital Media Technologies.
           </p>
         </div>
       </div>
       <div className="py-5">
         <p className="sm:text-2xl text-gray-500  text-center  font-semibold w-[80%] mx-auto mt-4">
-          Thank you for considering my application. I am excited about the
-          possibility of joining the University of Bremen and contributing to
-          the vibrant academic community. My contact details are provided at the
-          beginning of this portfolio for any further inquiries.
+          The opportunity to study at the University of Bremen is perfectly
+          aligned with my academic and research goals. The interdisciplinary
+          curriculum, research opportunities, and industry-linked projects of
+          this program will help me gain deeper expertise in AI-powered Digital
+          Media Research & Optimization. I am confident that this opportunity
+          will enable me to make a global contribution through research on
+          AI-driven Content Personalization, Human-Computer Interaction, and
+          Digital Media Technologies. I am grateful for this unique opportunity
+          and look forward to joining the vibrant academic community of Bremen.
         </p>
       </div>
     </div>

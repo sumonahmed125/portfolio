@@ -27,6 +27,7 @@ const projects = [
       "task management system is a web application that helps you to manage your daily tasks. you can add, delete, and update your tasks.",
     image: "./images/dashboard.png",
     link: "https://github.com/sumonahmed125/dev-board",
+    peview: "https://sumonahmed125.github.io/dev-board/",
   },
   {
     id: 2,
@@ -54,6 +55,7 @@ const projects = [
       "kisd school is a web application that helps you to manage your school. you can add, delete, and update your school information.",
     image: "./images/Kids-School.png",
     link: "https://github.com/sumonahmed125/Kids-School",
+    peview: "https://sumonahmed125.github.io/Kids-School/",
   },
   {
     id: 3,
@@ -81,6 +83,7 @@ const projects = [
       "pets care is a web application that helps you to manage your pets. you can add, delete, and update your pets information.",
     image: "./images/petcare.jpg",
     link: "https://github.com/sumonahmed125/Pets-Care",
+    peview: "https://sumonahmed125.github.io/Pets-Care/",
   },
   {
     id: 4,
@@ -109,6 +112,7 @@ const projects = [
       "e commerce vegitable shop is a web application that helps you to manage your vegitable shop. you can add, delete, and update your vegitable information.",
     image: "./images/vegist.jpg",
     link: "https://github.com/sumonahmed125/e-vegist",
+    peview: "https://sumonahmed125.github.io/e-vegist/",
   },
 ];
 
@@ -142,13 +146,22 @@ function Projects() {
                 ))}
               </div>
               <p className="mt-3 text-base">{p.description}</p>
-              <a
-                href={p.link}
-                className="inline-block px-5 py-2 bg-orange-400  text-white rounded-md mt-5
+              <div className="flex gap-2 mt-3 ">
+                <a
+                  href={p.peview}
+                  className="px-5 py-3 bg-gray-800  text-white rounded-md mt-5
+      hover:bg-transparent hover:border hover:border-gray-800 hover:text-gray-800 inline-block"
+                >
+                  View Project
+                </a>
+                <a
+                  href={p.link}
+                  className="inline-block px-5 py-2 bg-orange-400  text-white rounded-md mt-5
       hover:bg-transparent hover:border hover:border-orange-400 hover:text-orange-400"
-              >
-                Learn More
-              </a>
+                >
+                  Github
+                </a>
+              </div>
             </div>
             <img
               src={p.image}
