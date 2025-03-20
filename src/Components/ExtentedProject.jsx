@@ -102,12 +102,7 @@ function ExtentedProject() {
               Language Processing (NLP) & Machine Learning (ML). The research
               aimed to build CricBakko, the first Bangla cricket-focused
               sentiment analysis dataset, by collecting and analyzing public
-              opinions from Facebook & YouTube. The dataset was used to develop
-              a sentiment analysis model that could predict the sentiment of a
-              given text. The research findings were published in the
-              International Journal of Computer Science and Information Security
-              (IJCSIS) and presented at the 2021 International Conference on
-              Computer, Communication, and Signal Processing (ICCCSP).
+              opinions from Facebook & YouTube
             </p>
             <p>
               <h4 className="text-gray-700 font-semibold">
@@ -153,7 +148,7 @@ function ExtentedProject() {
               </div>
             </div> */}
           </div>
-          <div className="bg-stone-100 rounded-2xl p-10 -mt-16">
+          <div className="bg-stone-100 mt-7 rounded-2xl p-10 ">
             <div>
               <h3 className="text-blue-950 font-bold">Position :</h3>
               <p className="text-gray-600">Research Assistant</p>
@@ -164,9 +159,11 @@ function ExtentedProject() {
             </div>
             <div className="mt-4">
               <h3 className="text-blue-950 font-bold">Duration :</h3>
-              <p className="text-gray-600">
-                Starting november 6, 2024, with potential annual renewals based
-                on performance and project needs.
+              <p className="text-gray-600 w-[400px]">
+                Starting November 6, 2023, with potential six-month extensions
+                based on research performance and thesis progress, focusing on
+                Sentiment Analysis and dataset development for Bangladesh
+                cricket-related social media data.
               </p>
             </div>
             <div className="mt-4">
